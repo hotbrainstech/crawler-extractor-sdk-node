@@ -1,5 +1,8 @@
 # Getting started
 
+[![Node.js build and publish package](https://github.com/hotbrainstech/crawler-extractor-sdk/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/hotbrainstech/crawler-extractor-sdk/actions/workflows/npm-publish.yml)
+[![Running Code Coverage](https://github.com/hotbrainstech/crawler-extractor-sdk/actions/workflows/coverage.yml/badge.svg)](https://github.com/hotbrainstech/crawler-extractor-sdk/actions/workflows/coverage.yml)
+
 ## Installation
 
 ```bash
